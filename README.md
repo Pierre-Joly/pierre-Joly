@@ -15,7 +15,6 @@ Hello! I'm an engineering student at École Centrale de Lyon with a focus on mac
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pierre-Joly&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pierre-Joly&theme=github_dark&hide_border=true&bg_color=00000000)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pierre-Joly&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000)

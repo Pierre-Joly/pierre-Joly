@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello! I'm an engineering student at École Centrale de Lyon with a focus on machine learning, software development, and multidisciplinary engineering.<br>
+Hello! I am currently studying engineering at École Centrale de Lyon, with a specific focus on machine learning, software development, and multidisciplinary engineering.<br>
 
-<br>🏊‍♂️ I worked on a research project aimed at detecting swimming cycles in videos using PyTorch. This project leverages deep learning techniques to analyze and improve swimmers' performance.<br>
+<br>🏊‍♂️ I previously worked on a research project where we aimed to detect swimming cycles in videos using PyTorch. This project harnessed the power of deep learning to analyze and enhance the performance of swimmers.<br>
 
-<br>🎓 I've also been actively involved in extracurricular activities, such as serving as IT Manager for Challenge Centrale Lyon and Treasurer of the External Relations Section at AEECL. Currently.<br>
+<br>🎓 Besides academics, I've also been highly involved in extracurricular activities. Notably, I served as the IT Manager for Challenge Centrale Lyon and held the Treasurer position for the External Relations Section at AEECL.<br>
 
-<br>🚀 Currently, I'm preparing to begin an internship at CEA, working on neural network robustness certification.<br>
+<br>🚀 At present, I'm undertaking an internship at CEA, where I'm delving into neural network robustness certification.<br>
 
-<br>Feel free to check out my repositories and get in touch if you'd like to work together on any projects!
+<br>Feel free to browse through my repositories and don't hesitate to reach out if you're interested in collaborating on any projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pierre%20Joly)

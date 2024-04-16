@@ -24,9 +24,9 @@ Hello! I am currently studying engineering at École Centrale de Lyon, with a sp
     <img height="180" alt="Themable stat card" title="Profile stats" src="https://github-readme-stats.vercel.app/api?username=Pierre-Joly&show_icons=true&count_private=true&custom_title=Activity+Stats&include_all_commits=true&bg_color=00000000&hide_border=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/Pierre-Joly/#gh-light-mode-only">
-      <img height="180" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Joly&layout=compact&bg_color=00000000&hide_border=true&langs_count=10"/>
+      <img height="180" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Joly&hide=scss,jupyter%20notebook&layout=compact&bg_color=00000000&hide_border=true&langs_count=10"/>
   </a>
   <a href="https://github.com/Pierre-Joly/#gh-dark-mode-only">
-      <img height="180" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Joly&layout=compact&bg_color=00000000&hide_border=true&langs_count=10&theme=github_dark"/>
+      <img height="180" alt="Themable stat card" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Joly&hide=scss,jupyter%20notebook&layout=compact&bg_color=00000000&hide_border=true&langs_count=10&theme=github_dark"/>
   </a>
 </p>

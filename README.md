@@ -1,4 +1,4 @@
-# bout Me:
+# About Me:
 Currently studying at École Centrale de Lyon, with a specific focus on mathematics, machine learning, and multidisciplinary engineering.<br>
 
 ## 🌐 Socials:

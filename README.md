@@ -2,7 +2,7 @@
 Currently studying at École Centrale de Lyon, with a specific focus on mathematics, machine learning, and multidisciplinary engineering.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pierre%20Joly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-joly-fr)
 
 # 📊 GitHub Stats:
 <p align="middle">
